@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.6//EN
+N:Gee;Syko;;;
+FN:Syko Gee
+item1.EMAIL;type=INTERNET;type=pref:66654tan@proton.me
+item1.X-ABLabel:_$!<Other>!$_
+item2.EMAIL;type=INTERNET:66654tann@duck.com
+item2.X-ABLabel:_$!<Other>!$_
+END:VCARD
